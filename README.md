@@ -26,10 +26,3 @@ A computer vision utility built with Python and OpenCV to automatically detect d
 ```bash
 python scanner.py
 ```
-
-## CV Bullet Points
-- Developed an automated document scanner in Python using OpenCV, implementing Canny edge detection, contour approximation, and 4-point perspective transformation.
-- Enhanced document readability through image thresholding and binarization pipelines.
-
-## Claims to Avoid
-- Do not claim production-grade OCR or deep learning document parsing.
